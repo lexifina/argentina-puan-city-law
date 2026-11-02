@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-puan",
+  "code": "AR-B-PUAN",
+  "name": "Puan",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-puan-city-law",
+  "build": "built: municipal ordinances (200 ordinances, 200 versions) from https://sibom.slyt.gba.gob.ar/cities/99",
+  "language": "es",
+  "sources": 1
+}
